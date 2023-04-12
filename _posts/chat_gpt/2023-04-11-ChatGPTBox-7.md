@@ -1,3 +1,7 @@
+---
+categories: ChatGPTBox
+layout: post
+---
 问题:
 
 Reply in Chinese (Simplified).
