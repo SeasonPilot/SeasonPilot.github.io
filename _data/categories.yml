@@ -1,0 +1,6 @@
+- name: ChatGPTBox
+  description: 关于编程、开发和技术的文章
+- name: update
+  description: 关于日常生活、感想和心情的文章
+- name: jekyll
+  description: 关于读过的书籍、书评和推荐的文章
