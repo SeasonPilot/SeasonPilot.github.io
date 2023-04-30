@@ -2,7 +2,8 @@
 layout: post
 categories: ChatGPTBox
 description: ""
-tags: []
+tags: [教程, chatgpt]
+
 ---
 问题:
 

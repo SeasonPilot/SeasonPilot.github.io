@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: 主页
+title: Home
 ---
 
 # 欢迎来到我的博客
