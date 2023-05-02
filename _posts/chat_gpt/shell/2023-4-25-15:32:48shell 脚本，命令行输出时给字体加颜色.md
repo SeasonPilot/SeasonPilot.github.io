@@ -1,3 +1,7 @@
+---
+layout: post
+categories: shell
+---
 Question:
 
 Reply in Chinese (Simplified).

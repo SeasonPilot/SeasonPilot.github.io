@@ -1,3 +1,7 @@
+---
+layout: post
+categories: grpc
+---
 Question:
 
 Reply in Chinese (Simplified).

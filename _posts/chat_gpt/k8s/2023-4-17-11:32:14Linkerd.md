@@ -1,3 +1,7 @@
+---
+layout: post
+categories: k8s
+---
 Question:
 
 Reply in Chinese (Simplified).

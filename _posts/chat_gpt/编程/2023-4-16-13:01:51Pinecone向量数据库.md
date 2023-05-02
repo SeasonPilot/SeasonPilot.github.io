@@ -1,3 +1,7 @@
+---
+layout: post
+categories: 编程
+---
 Question:
 
 Reply in Chinese (Simplified).

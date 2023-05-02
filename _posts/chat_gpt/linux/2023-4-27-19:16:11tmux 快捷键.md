@@ -1,3 +1,7 @@
+---
+layout: post
+categories: linux
+---
 Question:
 
 Reply in Chinese (Simplified).

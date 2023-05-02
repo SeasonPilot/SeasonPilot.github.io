@@ -1,3 +1,7 @@
+---
+layout: post
+categories: JavaScript
+---
 Question:
 
 Reply in Chinese (Simplified).

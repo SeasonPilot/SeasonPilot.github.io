@@ -1,3 +1,7 @@
+---
+layout: post
+categories: prometheus
+---
 Question:
 
 Reply in Chinese (Simplified).
